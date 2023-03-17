@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.1986be09.chunk.css",
-    "main.js": "/static/js/main.c8729e61.chunk.js",
-    "main.js.map": "/static/js/main.c8729e61.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a5042f6b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a5042f6b.js.map",
-    "static/css/2.d64471e2.chunk.css": "/static/css/2.d64471e2.chunk.css",
-    "static/js/2.1f45349e.chunk.js": "/static/js/2.1f45349e.chunk.js",
-    "static/js/2.1f45349e.chunk.js.map": "/static/js/2.1f45349e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5e49f52bd61d9c03f8942307f6bb6731.js": "/precache-manifest.5e49f52bd61d9c03f8942307f6bb6731.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.1986be09.chunk.css.map": "/static/css/main.1986be09.chunk.css.map",
-    "static/js/2.1f45349e.chunk.js.LICENSE.txt": "/static/js/2.1f45349e.chunk.js.LICENSE.txt",
-    "static/media/Tina_Tran_Resume.pdf": "/static/media/Tina_Tran_Resume.5322470e.pdf"
+    "main.css": "/my-portfolio/static/css/main.1986be09.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.52013c37.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.52013c37.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.9994cf37.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.9994cf37.js.map",
+    "static/css/2.d64471e2.chunk.css": "/my-portfolio/static/css/2.d64471e2.chunk.css",
+    "static/js/2.1f45349e.chunk.js": "/my-portfolio/static/js/2.1f45349e.chunk.js",
+    "static/js/2.1f45349e.chunk.js.map": "/my-portfolio/static/js/2.1f45349e.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.47366d886e169f253f11eebb54981044.js": "/my-portfolio/precache-manifest.47366d886e169f253f11eebb54981044.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/my-portfolio/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.1986be09.chunk.css.map": "/my-portfolio/static/css/main.1986be09.chunk.css.map",
+    "static/js/2.1f45349e.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.1f45349e.chunk.js.LICENSE.txt",
+    "static/media/Tina_Tran_Resume.pdf": "/my-portfolio/static/media/Tina_Tran_Resume.5322470e.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5042f6b.js",
+    "static/js/runtime-main.9994cf37.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.1f45349e.chunk.js",
     "static/css/main.1986be09.chunk.css",
-    "static/js/main.c8729e61.chunk.js"
+    "static/js/main.52013c37.chunk.js"
   ]
 }
