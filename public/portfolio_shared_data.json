@@ -22,66 +22,60 @@
     "image": "myProfile.jpeg"
   },
   "skills": {
-    "icons": [
+    "languages": [
       {
         "name": "HTML 5",
-        "class": "devicon-html5-plain",
-        "level": "95"
+        "class": "devicon-html5-plain"
       },
       {
         "name": "CSS 3",
-        "class": "devicon-css3-plain",
-        "level": "95"
+        "class": "devicon-css3-plain"
       },
       {
         "name": "Python",
-        "class": "devicon-python-plain",
-        "level": "80"
-      },
-      {
-        "name": "React",
-        "class": "devicon-react-plain",
-        "level": "90"
+        "class": "devicon-python-plain"
       },
       {
         "name": "JavaScript",
-        "class": "devicon-javascript-plain",
-        "level": "70"
-      },
-      {
-        "name": "Bootstrap",
-        "class": "devicon-bootstrap-plain",
-        "level": "75"
-      },
+        "class": "devicon-javascript-plain"
+      }
+    ],
+    "backend": [
       {
         "name": "Django",
-        "class": "devicon-django-plain",
-        "level": "85"
+        "class": "devicon-django-plain"
       },
       {
         "name": "SQLite3",
-        "class": "devicon-sqlite-plain",
-        "level": "65"
+        "class": "devicon-sqlite-plain"
       },
       {
         "name": "PostgreSQL",
-        "class": "devicon-postgresql-plain",
-        "level": "60"
+        "class": "devicon-postgresql-plain"
       },
       {
         "name": "FastAPI",
-        "class": "devicon-fastapi-plain",
-        "level": "60"
+        "class": "devicon-fastapi-plain"
+      }
+    ],
+    "frontend": [
+      {
+        "name": "React",
+        "class": "devicon-react-plain"
       },
       {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain"
+      }
+    ],
+    "tools": [
+      {
         "name": "Git",
-        "class": "devicon-git-plain",
-        "level": "60"
+        "class": "devicon-git-plain"
       },
       {
         "name": "Docker",
-        "class": "devicon-docker-plain",
-        "level": "60"
+        "class": "devicon-docker-plain"
       }
     ]
   }
