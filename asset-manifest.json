@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1986be09.chunk.css",
+    "main.js": "/static/js/main.c8729e61.chunk.js",
+    "main.js.map": "/static/js/main.c8729e61.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a5042f6b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a5042f6b.js.map",
+    "static/css/2.d64471e2.chunk.css": "/static/css/2.d64471e2.chunk.css",
+    "static/js/2.1f45349e.chunk.js": "/static/js/2.1f45349e.chunk.js",
+    "static/js/2.1f45349e.chunk.js.map": "/static/js/2.1f45349e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.115f099831b09ff00ab484b04b6bacc6.js": "/precache-manifest.115f099831b09ff00ab484b04b6bacc6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.1986be09.chunk.css.map": "/static/css/main.1986be09.chunk.css.map",
+    "static/js/2.1f45349e.chunk.js.LICENSE.txt": "/static/js/2.1f45349e.chunk.js.LICENSE.txt",
+    "static/media/Tina_Tran_Resume.pdf": "/static/media/Tina_Tran_Resume.5322470e.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5042f6b.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.1f45349e.chunk.js",
+    "static/css/main.1986be09.chunk.css",
+    "static/js/main.c8729e61.chunk.js"
+  ]
+}
